@@ -45,5 +45,6 @@ to draw a picture. It can be used to experiment with coding.
 PART III
 6. It gives an error message. "error: cannot find symbol - variable blue"
 9. I'm making the second image. Change the  green circle's diameter to 1000. Use moveHorizontal and moveVertical until its private int positions are -250 and 230 respectively. Add 2 persons. For person 1, move it 40 pixels to the left. For person 2, change the height and width to 45 and 20 pixels respectively, then moveVertical 10 pixels. Finally, make yellow circle's diameter 30 pixels and moveHorizontal so the "private int xPosition" is 350. 
+I did the work but i didn't save the screenshots.
 
   
